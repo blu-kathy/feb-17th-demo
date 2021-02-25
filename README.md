@@ -9,3 +9,6 @@ bad commit
 add commit
 
 good commit
+
+another bad secret!!!!
+`awS_secret="7DE556A3BC234CC2GF9E8A5C324C0BB70AA21B6D"`
